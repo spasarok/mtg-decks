@@ -48,10 +48,11 @@ Download this folder to your local machine. You can then use this folder to impo
     * Azban (bgw)
     * Bant (ugw)
     * Esper (ubw)
+    * Grixis (ubr)
     * Jeskai (urw)
     * Jund (bgr)
     * Mardu (brw)
-    * <forgot the rest>
+    * ???
   * Four-color
     * <idk>
   * Five-color
