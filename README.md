@@ -52,8 +52,14 @@ Download this folder to your local machine. You can then use this folder to impo
     * Jeskai (urw)
     * Jund (bgr)
     * Mardu (brw)
-    * ???
+    * Naya (grw)
+    * Sultai (ubg)
+    * Temur (ugr)
   * Four-color
-    * <idk>
+    * Dune (bgrw)
+    * Glint-Eye (ubgr)
+    * Ink-Treader (ugrw)
+    * Witch (ubgw)
+    * Yore (ubrw)
   * Five-color
-    * (ubgrw)
+    * WUBRG/Rainbow (ubgrw)
