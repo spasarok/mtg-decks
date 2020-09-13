@@ -4,22 +4,21 @@ I use this repository to manage my Magic: The Gathering card library. This libra
 
 ## Usage
 
-Download this folder to your local machine. You can then use this folder to load decks when playing Magic using Cockatrice.
+Download this folder to your local machine. You can then use this folder to import/load decks when playing MTG.
 
 ## Contributing
 
 ### Directory Structure
 
 ```
-+-- Cockatrice
-    +-- decks
-        +-- <format> 
-            |-- common 
-            |   +-- <shared decks found online go here>
-            |-- k
-            |   +-- <my personal decks go here>
-            +-- <your-name>
-                +-- <your personal decks go here>
++-- root
+    +-- <format> 
+        |-- common 
+        |   +-- <shared decks found online go here>
+        |-- k
+        |   +-- <my personal decks go here>
+        +-- <your-name>
+            +-- <your personal decks go here>
 ```
 
 ### Naming Conventions
