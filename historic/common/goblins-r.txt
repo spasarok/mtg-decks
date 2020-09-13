@@ -1,0 +1,20 @@
+1 Goblin Ringleader
+3 Krenko, Mob Boss
+3 Goblin Matron
+4 Muxus, Goblin Grandee
+4 Goblin Warchief
+4 Goblin Chieftain
+4 Conspicuous Snoop
+4 Goblin Instigator
+4 Wily Goblin
+4 Skirk Prospector
+1 Mountain
+2 Phyrexian Tower
+3 Castle Embereth
+19 Mountain
+SB: 1 Goblin Trashmaster
+SB: 1 Goblin Trashmaster
+SB: 3 Redcap Melee
+SB: 3 Gempalm Incinerator
+SB: 3 Goblin Chainwhirler
+SB: 4 Leyline of the Void

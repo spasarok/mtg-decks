@@ -1,0 +1,26 @@
+1 Lava Serpent
+4 Spellgorger Weird
+4 Mistral Singer
+1 Quench
+2 Searing Barrage
+2 Scorching Dragonfire
+2 Raking Claws
+2 Stern Dismissal
+2 Essence Scatter
+2 Lofty Denial
+4 Frantic Inventory
+4 Opt
+4 Shock
+2 Skewer the Critics
+4 Starlit Mantle
+2 Swiftwater Cliffs
+8 Island
+10 Mountain
+Sideboard
+1 Destructive Tampering
+1 Shredded Sails
+2 Charmed Sleep
+2 Cloudpiercer
+2 Negate
+3 Goblin Wizardry
+4 Rimrock Knight

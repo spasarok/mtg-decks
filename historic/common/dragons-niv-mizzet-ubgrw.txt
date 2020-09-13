@@ -1,0 +1,64 @@
+1 Niv-Mizzet Reborn
+1 Verix Bladewing
+1 Demanding Dragon
+1 Lathliss, Dragon Queen
+1 Bladewing the Risen
+1 Darigaaz Reincarnated
+1 Chromium, the Mutable
+1 Glorybringer
+1 Vaevictis Asmadi, the Dire
+1 Terror of the Peaks
+1 Nicol Bolas, the Ravager
+1 Korvold, Fae-Cursed King
+1 Niv-Mizzet, Parun
+1 Skarrgan Hellkite
+1 Arcades, the Strategist
+1 Drakuseth, Maw of Flames
+1 Palladia-Mors, the Ruiner
+2 Sprite Dragon
+2 Gadrak, the Crown-Scourge
+2 Dragonmaster Outcast
+2 Dragonspeaker Shaman
+2 Chromatic Lantern
+3 Dragon's Hoard
+2 Bedevil
+2 Tyrant's Scorn
+2 Flame Sweep
+2 Bedeck/Bedazzle
+2 Shock
+2 Expansion/Explosion
+2 Spit Flame
+2 Angrath's Rampage
+2 Cry of the Carnarium
+2 Hour of Devastation
+2 Connive/Concoct
+2 Blazing Volley
+2 Sarkhan's Unsealing
+1 Ugin, the Spirit Dragon
+1 Nicol Bolas, Dragon-God
+2 Sarkhan the Masterless
+2 Nicol Bolas, God-Pharaoh
+2 Sarkhan, Fireblood
+1 Sulfur Falls
+1 Savai Triome
+1 Watery Grave
+1 Steam Vents
+1 Zagoth Triome
+1 Raugrin Triome
+3 Fabled Passage
+3 Ketria Triome
+4 Dragonskull Summit
+4 Gateway Plaza
+4 Unclaimed Territory
+6 Swamp
+7 Mountain
+Sideboard
+1 Fiery Finish
+1 Hour of Revelation
+1 Time Wipe
+1 Shatter the Sky
+1 Kaya's Wrath
+1 Cleansing Nova
+2 Flame Sweep
+3 Ruinous Ultimatum
+4 Maelstrom Pulse
