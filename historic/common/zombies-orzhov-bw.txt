@@ -13,3 +13,4 @@
 4 Isolated Chapel
 4 Unclaimed Territory
 10 Swamp
+1 Zombie  
