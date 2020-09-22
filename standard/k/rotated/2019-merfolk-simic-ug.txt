@@ -1,0 +1,39 @@
+1 Deck
+2 Breeding Pool
+1 Hinterland Harbor
+9 Island
+6 Forest
+1 Kumena, Tyrant of Orazca
+1 Zegana, Utopian Speaker
+1 Jadelight Ranger
+2 Deeproot Elite
+1 Deeproot Champion
+1 Anticipate
+1 Seafloor Oracle
+1 Benthic Biomancer
+4 Jade Bearer
+3 River Sneak
+3 Silvergill Adept
+1 River Heralds' Boon
+1 Wizard's Retort
+2 Sleep
+2 Tempest Caller
+3 Kumena's Speaker
+2 Jungleborn Pioneer
+1 Woodland Stream
+1 Shaper Apprentice
+1 Skyrider Patrol
+3 Merfolk Mistbinder
+2 Woodland Stream
+3 Simic Guildgate
+1 Siren Stormtamer
+1 Merfolk Skydiver
+SB: 1 Hydroid Krasis
+SB: 1 Combine Guildmage
+SB: 1 Wilderness Reclamation
+SB: 1 Mirror Image
+SB: 1 Eyes Everywhere
+SB: 1 Herald of Secret Streams
+SB: 1 River's Rebuke
+SB: 1 Deeproot Waters
+SB: 1 One With the Wind

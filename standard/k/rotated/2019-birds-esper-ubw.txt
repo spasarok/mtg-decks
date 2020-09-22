@@ -1,0 +1,45 @@
+1 Deck
+4 Consecrate // Consume
+1 Wizard's Retort
+1 Glacial Fortress
+1 Opt
+2 Mortify
+1 Hostage Taker
+3 Godless Shrine
+1 Sanguine Sacrament
+1 Settle the Wreckage
+5 Plains
+1 Orzhov Enforcer
+2 Hired Poisoner
+2 Dire Fleet Poisoner
+2 Divine Visitation
+3 Seal Away
+1 Radical Idea
+4 Murmuring Mystic
+1 Isolated Chapel
+1 Drowned Catacomb
+3 Swamp
+3 Island
+3 Orzhov Guildgate
+2 Dimir Guildgate
+2 Azorius Guildgate
+2 Revival // Revenge
+1 Kaya's Wrath
+3 Lawmage's Binding
+1 Sinister Sabotage
+1 Discovery // Dispersal
+1 Bishop of Binding
+2 Murder
+SB: 1 Hunted Witness
+SB: 1 Ministrant of Obligation
+SB: 1 Reassembling Skeleton
+SB: 1 Haazda Marshal
+SB: 1 Negate
+SB: 1 Shalai, Voice of Plenty
+SB: 1 Benthic Biomancer
+SB: 1 Citywide Bust
+SB: 1 Salvager of Secrets
+SB: 1 Inspiring Commander
+SB: 1 Profane Procession
+SB: 1 Chemister's Insight
+SB: 1 Chart a Course
