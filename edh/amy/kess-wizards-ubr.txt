@@ -1,0 +1,78 @@
+1 Altar of the Brood
+1 Baral, Chief of Compliance
+1 Bone to Ash
+1 Clash of Wills
+1 Command Tower
+1 Counterflux
+1 Crumbling Vestige
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Disallow
+1 Docent of Perfection
+1 Doom Blade
+1 Dragonskull Summit
+1 Essence Scatter
+1 Fiery Temper
+1 Firemind's Research
+1 Flaying Tendrils
+1 Forgotten Cave
+1 Fraying Omnipotence
+1 Ghirapur Orrery
+1 Glen Elendra Archmage
+1 Goblin Electromancer
+1 Graceful Adept
+1 Highland Lake
+1 Ionize
+10 Island
+1 Izzet Charm
+1 Izzet Guildgate
+1 Jace, Vryn's Prodigy
+1 Kess, Dissident Mage
+1 Lava Coil
+1 League Guildmage
+1 Lich's Caress
+1 Lightning Bolt
+1 Lonely Sandbar
+1 Macabre Waltz
+1 Mizzium Meddler
+1 Mizzix of the Izmagnus
+8 Mountain
+1 Murder
+1 Murmuring Mystic
+1 Negate
+1 Nekusar, the Mindrazer
+1 Nevinyrral's Disk
+1 Nicol Bolas, the Ravager
+1 Nimble Obstructionist
+1 Niv-Mizzet, Parun
+1 Omniscience
+1 Opt
+1 Patient Rebuilding
+1 Pillar of Flame
+1 Primal Amulet
+1 Psychic Corrosion
+1 Rakdos Charm
+1 Reliquary Tower
+1 Rhystic Study
+1 Roast
+1 Sea Gate Oracle
+1 Selective Snare
+1 Sensei's Divining Top
+1 Shock
+1 Skullclamp
+1 Sol Ring
+1 Spell Pierce
+1 Standstill
+1 Submerged Boneyard
+8 Swamp
+1 Talrand, Sky Summoner
+1 Temple of Deceit
+1 Ultimate Price
+1 Uncomfortable Chill
+1 Vedalken Orrery
+1 Voidmage Prodigy
+1 Willbender
+1 Windreader Sphinx
+1 Wizard's Lightning
+1 Wizard's Retort
+
