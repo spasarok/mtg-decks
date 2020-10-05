@@ -34,26 +34,18 @@
 1 Wildheart Invoker
 1 Voice of the Woods
 1 Farhaven Elf
-1 Nylea, Keen-Eyed
 1 Vizier of the Menagerie
 1 Yeva, Nature's Herald
 1 Crash of Rhino Beetles
 1 Seedborn Muse
-1 Soul of the Harvest
 1 Pathbreaker Ibex
-1 Primordial Sage
-1 Essence of the Wild
-1 Regal Force
 1 Stonehoof Chieftain
 1 Ghalta, Primal Hunger
-1 Skullclamp
 1 Wirewood Pride
 1 Might of the Masses
 1 Spider Umbra
 1 Endless Atlas
-1 Emerald Medallion
 1 Lure
-1 Pulse of Murasa
 1 Whispersilk Cloak
 1 Dragon Throne of Tarkir
 1 Path of Discovery
@@ -61,10 +53,8 @@
 1 Into the Wilds
 1 Vanquisher's Banner
 1 Overwhelming Stampede
-1 God-Pharaoh's Statue
 1 Finale of Devastation
 1 Tranquil Thicket
-1 Gingerbread Cabin
 1 Sapseep Forest
 1 Desert of the Indomitable
 1 Slippery Karst
@@ -72,4 +62,26 @@
 1 Temple of the False God
 1 Wirewood Lodge
 1 Reliquary Tower
-26 Forest
+25 Forest
+1 Heart Warden
+1 Paradise Druid
+1 Gilt-Leaf Seer
+1 Loyal Guardian
+1 Llanowar Tribe
+1 Thunderfoot Baloth
+1 Castle Garenbrig
+1 Pendelhaven
+1 Oran-Rief, the Vastwood
+1 Mirror of the Forebears
+1 Metallic Mimic
+SB: 2 Forest
+SB: 1 Skullclamp
+SB: 1 Emerald Medallion
+SB: 1 God-Pharaoh's Statue
+SB: 1 Essence of the Wild
+SB: 1 Nylea, Keen-Eyed
+SB: 1 Primordial Sage
+SB: 1 Regal Force
+SB: 1 Soul of the Harvest
+SB: 1 Pulse of Murasa
+SB: 1 Gingerbread Cabin
