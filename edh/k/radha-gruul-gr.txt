@@ -1,0 +1,83 @@
+1 Ant Queen
+1 Domri, Anarch of Bolas
+1 Domri Rade
+1 Fervor
+1 Genesis Wave
+1 Harrow
+1 Harvest Season
+1 Hellrider
+1 Lifecrafter's Bestiary
+1 Ohran Frostfang
+1 Outpost Siege
+1 Throne of the God-Pharaoh
+1 Savage Ventmaw
+1 Thunderfoot Baloth
+1 Wolfbriar Elemental
+1 Wrap in Vigor
+1 Vitalizing Wind
+1 Vivien, Champion of the Wilds
+1 Vivien, Monsters' Advocate
+1 War Cadence
+1 Aid from the Cowl
+1 Awakening Zone
+1 Banefire
+1 Beastcaller Savant
+1 Beastmaster Ascension
+1 Birds of Paradise
+1 Bloom Tender
+1 Burn from Within
+1 Champion of Lambholt
+1 Cryptolith Rite
+1 Cultivate
+1 Demonfire
+1 Dolmen Gate
+1 Domri, Chaos Bringer
+1 Dragonlair Spider
+1 Essence of the Wild
+1 Evolutionary Leap
+1 Farseek
+1 Fires of Yavimaya
+1 Flameblast Dragon
+1 From Beyond
+1 Gaea's Anthem
+1 Grand Warlord Radha
+1 Grumgully, the Generous
+1 Helm of the Host
+1 Hornet Queen
+1 Jaya's Immolating Inferno
+1 Krenko, Mob Boss
+1 Legion Warboss
+1 Lightning Greaves
+1 Loyal Apprentice
+1 Lure
+1 Mind's Eye
+1 Mycoloth
+1 Ogre Battledriver
+1 Paradise Druid
+1 Path of Discovery
+1 Predatory Advantage
+1 Quirion Elves
+1 Raid Bombardment
+1 Renata, Called to the Hunt
+1 Rhythm of the Wild
+1 Sakura-Tribe Elder
+1 Samut, Tyrant Smasher
+1 Strionic Resonator
+1 Tendershoot Dryad
+1 Utvara Hellkite
+1 Verdant Force
+1 Wurmcalling
+1 Rugged Highlands
+1 Kher Keep
+1 Temple of Abandon
+1 Gruul Guildgate
+1 Rootbound Crag
+1 Timber Gorge
+1 Sheltered Thicket
+1 Vivid Crag
+1 Vivid Grove
+1 Command Tower
+1 Kazandu Refuge
+1 Fungal Reaches
+10 Forest
+9 Mountain
