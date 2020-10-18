@@ -81,3 +81,9 @@
 1 Fungal Reaches
 10 Forest
 9 Mountain
+SB: 1 Grand Warlord Radha
+1 Eldrazi Scion
+1 Eldrazi Spawn
+1 Saproling
+1 Wurm     
+1 Wolf   

@@ -1,15 +1,19 @@
-4 Electrostatic Field
-4 Chandra's Pyreling
-4 Thermo-Alchemist
-4 Firebrand Archer
-4 Skewer the Critics
-4 Light Up the Stage
-4 Opt
-4 Shock
+1 Deck
 4 Curiosity
-4 Sulfur Falls
-3 Forgotten Cave
-4 Temple of Epiphany
-3 Lonely Sandbar
-6 Mountain
-4 Island
+9 Mountain
+4 Electrostatic Field
+5 Island
+1 Steam Vents
+4 Skewer the Critics
+2 Light Up the Stage
+4 Shock
+4 Opt
+4 Firebrand Archer
+2 Lightning Strike
+4 Chandra's Pyreling
+1 Sulfur Falls
+2 Temple of Epiphany
+2 Raugrin Triome
+4 Swiftwater Cliffs
+4 Thermo-Alchemist
+SB: 1 Young Pyromancer
